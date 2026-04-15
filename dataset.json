@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a city-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Whales in Milwaukee, US",
+  "export_job_id": "53457b58-93b7-4a4d-a5b4-777dfbba0847",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 835830,
+  "location_name": "Milwaukee",
+  "location_type": "city",
+  "repo_name": "top-30-active-restaurant-whales-in-milwaukee-us-sample-835830",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/835830/beamstation_835830_restaurants-us-wi_SAMPLE_DIST.csv",
+  "sample_pct": 10.39,
+  "sample_records": 45,
+  "sample_sha256": "92f07f47c2cb5bf1d4b3cd6d72a27bbe8daca9aaa19ec7187e696c5ab79f8887",
+  "sample_size_bytes": 196514,
+  "total_records": 433,
+  "updated_at": "2026-04-07T17:47:40.732988+00:00"
+}
