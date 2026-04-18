@@ -9,9 +9,9 @@
 | Dataset ID | `835830` |
 | Location | Milwaukee |
 | Category | Restaurants |
-| Full dataset size | 433 records |
-| Free sample size | 45 records (10.39%) |
-| Last export | 2026-04-07T17:47:40.732988+00:00 |
+| Full dataset size | 451 records |
+| Free sample size | 45 records (9.98%) |
+| Last export | 2026-04-14T23:19:39.635161+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-milwaukee-us-sample-835830/releases/download/sample-latest/beamstation_835830_restaurants-us-wi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
