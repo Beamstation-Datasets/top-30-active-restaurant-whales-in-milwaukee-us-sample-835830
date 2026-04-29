@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Whales in Milwaukee, US
 
-> Free BeamStation sample export with 28 rows and masked direct-contact fields.
+> Free BeamStation sample export with 10 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `835830` |
 | Location | Milwaukee |
 | Category | Restaurants |
-| Full dataset size | 280 records |
-| Free sample size | 28 records (10.0%) |
-| Last export | 2026-04-22T02:42:30.914002+00:00 |
+| Full dataset size | 109 records |
+| Free sample size | 10 records (9.17%) |
+| Last export | 2026-04-29T05:37:54.267976+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-milwaukee-us-sample-835830/releases/download/sample-latest/beamstation_835830_restaurants-us-wi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
